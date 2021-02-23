@@ -17,10 +17,7 @@ public class Movement : MonoBehaviour
         
     private void Start() => _controller = GetComponent<CharacterController>();
 
-    private void OnMove(InputValue value)
-    {
-        _moveDirection = value.Get<Vector2>();
-    }
+    private void OnMove(InputValue value) => _moveDirection = value.Get<Vector2>();
 
     private void Update()
     {
@@ -34,7 +31,7 @@ public class Movement : MonoBehaviour
             
         if (_controller.isGrounded)
         {
-            _velocityY = -2f;
+            _velocityY = 0f;
         }
 
         _velocityY += gravity * Time.deltaTime;
