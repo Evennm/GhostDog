@@ -26,11 +26,10 @@ public class MouseLook : MonoBehaviour
     
     private void Update()
     {
+        if (Time.timeScale < 1f)
+            return;
+        
         UpdateMouseLook();
-        if (Keyboard.current.escapeKey.wasPressedThisFrame)
-        {
-            Cursor.lockState = CursorLockMode.None;
-        }
     }
 
     private void UpdateMouseLook()
