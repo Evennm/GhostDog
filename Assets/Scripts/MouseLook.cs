@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -22,14 +23,13 @@ public class MouseLook : MonoBehaviour
     }
 
     private void OnLook(InputValue value) => _lookVector = value.Get<Vector2>();
-
+    
     private void Update()
     {
         UpdateMouseLook();
         if (Keyboard.current.escapeKey.wasPressedThisFrame)
         {
             Cursor.lockState = CursorLockMode.None;
-            //EditorApplication.isPlaying = false;
         }
     }
 
