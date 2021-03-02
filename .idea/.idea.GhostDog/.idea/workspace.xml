@@ -20,14 +20,16 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameEnder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ResetMouseLock.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" />
       <option value="$PROJECT_DIR$/Assets/PauseMenu.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/PauseMenu.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/MouseLook.cs" />
       <option value="$PROJECT_DIR$/Assets/DontDestroyAudio.cs" />
+      <option value="$PROJECT_DIR$/Assets/ResetMouseLock.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MouseLook.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/GameEnder.cs" />
     </changedPaths>
   </component>
@@ -83,6 +85,7 @@
       <workItem from="1614588999346" duration="2055000" />
       <workItem from="1614593642264" duration="5172000" />
       <workItem from="1614620418511" duration="4207000" />
+      <workItem from="1614688683122" duration="2049000" />
     </task>
     <servers />
   </component>

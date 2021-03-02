@@ -111,6 +111,7 @@
             </e>
           </e>
         </e>
+        <e p="ResetMouseLock.cs" t="Include" />
         <e p="Samples" t="Include">
           <e p="Terrain Tools" t="Include">
             <e p="0.1.0-preview" t="Include">
