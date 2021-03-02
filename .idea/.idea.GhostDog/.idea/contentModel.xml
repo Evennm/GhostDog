@@ -121,6 +121,8 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="AnimationControl.cs" t="Include" />
+          <e p="GameEnder.cs" t="Include" />
           <e p="MainMenu.cs" t="Include" />
           <e p="MouseLook.cs" t="Include" />
           <e p="Movement.cs" t="Include" />

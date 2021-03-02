@@ -10,12 +10,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameEnder.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" />
       <option value="$PROJECT_DIR$/Assets/PauseMenu.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/PauseMenu.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/MouseLook.cs" />
+      <option value="$PROJECT_DIR$/Assets/DontDestroyAudio.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/GameEnder.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1osp38T3Mziyfks51ZDYA3rAvEy" />
@@ -68,7 +81,8 @@
       <workItem from="1614161193561" duration="2000" />
       <workItem from="1614343394880" duration="2432000" />
       <workItem from="1614588999346" duration="2055000" />
-      <workItem from="1614593642264" duration="2553000" />
+      <workItem from="1614593642264" duration="5172000" />
+      <workItem from="1614620418511" duration="4207000" />
     </task>
     <servers />
   </component>
